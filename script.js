@@ -30,7 +30,7 @@ if (randomNum !== 3) {
 }
 
 // 1d
-if (randomNum !== 3 && 5) {
+if (randomNum !== 3 &&  randomNum !== 5) {
     console.log("Not equal to 3 and 5.");
 }
 
